@@ -1,5 +1,12 @@
 # pyenv
 
+---
+This module is **unmaintained**. I haven't maintained this module in a number of
+years. The module is unlikely to work at this point and won't be seeing further
+updates.
+
+---
+
 [Pyenv](https://github.com/yyuu/pyenv) provides a way to build and use
 Pythons outside of your platforms package manager's purview.
 
